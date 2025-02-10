@@ -20,7 +20,6 @@ Aplikasi ini dikembangkan menggunakan **Native PHP** dan berfungsi sebagai siste
 ## Struktur Folder
 ```
 Kerpegawaian/
-repository/
 ├── admin/
 │   ├── view/
 │   │   ├── footer.php
