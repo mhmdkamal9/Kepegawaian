@@ -18,6 +18,8 @@ Aplikasi ini dikembangkan menggunakan **Native PHP** dan berfungsi sebagai siste
   - Password: `password`  
 
 ## Struktur Folder
+```
+Kerpegawaian/
 repository/
 ├── admin/
 │   ├── view/
@@ -44,6 +46,7 @@ repository/
     ├── tambah_departemen.php
     ├── tambah_jabatan.php
     └── tambah_pegawai.php
+```
 
 ## Kontributor
 - Muhamad Kamal - 10122473
