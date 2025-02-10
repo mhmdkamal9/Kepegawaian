@@ -18,7 +18,6 @@ Aplikasi ini dikembangkan menggunakan **Native PHP** dan berfungsi sebagai siste
   - Password: `password`  
 
 ## Struktur Folder
-git clone https://github.com/mhmdkamal9/Kepegawaian.git
 
 ## Kontributor
 - Muhamad Kamal - 10122473
