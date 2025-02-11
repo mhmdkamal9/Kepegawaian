@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";  
 $pass = "";     
-$db   = "kamal_if10_kepegawaian";
+$db   = "db_pegawai";
 
 // Buat koneksi
 $koneksi = mysqli_connect($host, $user, $pass, $db);
